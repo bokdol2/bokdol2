@@ -3,7 +3,8 @@ tocorps.com###banner
 tocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:first-child
 tocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(2)
 tocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(3)
-tocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child
+tocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:first-child
+tocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:last-child
 */img/banner/qqr.gif$domain=tocorps.com
 */img/banner/u77.gif$domain=tocorps.com
 torrentkim10.net###chitos
