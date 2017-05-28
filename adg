@@ -8,3 +8,9 @@ tocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:last-c
 */img/banner/qqr.gif$domain=tocorps.com
 */img/banner/u77.gif$domain=tocorps.com
 torrentkim10.net###chitos
+yabang.org###side_right
+yabang.org###side_left
+yabang.org###body_wrap > DIV.bodybody.newClear:nth-child(2) > DIV.custom_html_wrap.newClear:nth-child(2)
+yabang.org###bd > DIV.rd.rd_nav_style2.clear:nth-child(2) > DIV.rd_body.clear:nth-child(2) > DIV.ss_ad_center:first-child
+yabang.org###bd > DIV.rd.rd_nav_style2.clear:nth-child(2) > DIV.rd_body.clear:nth-child(2) > DIV.ss_ad_center:last-child
+yabang.org###nivo_slider
