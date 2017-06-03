@@ -1,12 +1,12 @@
-tocorps.com###divpop2
-tocorps.com###banner
-tocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:first-child
-tocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(2)
-tocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(3)
-tocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:first-child
-tocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:last-child
-*/img/banner/qqr.gif$domain=tocorps.com
-*/img/banner/u77.gif$domain=tocorps.com
+ttocorps.com###divpop2
+ttocorps.com###banner
+ttocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:first-child
+ttocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(2)
+ttocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(3)
+ttocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:first-child
+ttocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:last-child
+*/img/banner/qqr.gif$domain=ttocorps.com
+*/img/banner/u77.gif$domain=ttocorps.com
 torrentkim10.net###chitos
 yabang.org###side_right
 yabang.org###side_left
@@ -14,3 +14,10 @@ yabang.org###body_wrap > DIV.bodybody.newClear:nth-child(2) > DIV.custom_html_wr
 yabang.org###bd > DIV.rd.rd_nav_style2.clear:nth-child(2) > DIV.rd_body.clear:nth-child(2) > DIV.ss_ad_center:first-child
 yabang.org###bd > DIV.rd.rd_nav_style2.clear:nth-child(2) > DIV.rd_body.clear:nth-child(2) > DIV.ss_ad_center:last-child
 yabang.org###nivo_slider
+javarchive.com###text-2
+javarchive.com###text-5 > div.textwidget
+avmong.com##table.wrap:first-child > tbody > tr:nth-child(3) > td > table > tbody > tr > td > table > tbody > tr:first-child > td
+avmong.com##table.wrap:nth-child(3) > tbody > tr:nth-child(3)
+av10pro.net##table:first-child > tbody > tr:nth-child(2) > td > table > tbody > tr > td > table:last-child > tbody > tr:first-child
+avmong.com##table.wrap:first-child > tbody > tr:nth-child(3) > td > table > tbody > tr > td > table > tbody > tr:nth-child(6)
+avmong.com##table.wrap:first-child > tbody > tr:nth-child(3) > td > table > tbody > tr > td > table > tbody > tr:nth-child(9)
