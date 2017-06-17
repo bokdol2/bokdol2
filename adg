@@ -3,6 +3,7 @@ ttocorps.com###banner
 ttocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:first-child
 ttocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(2)
 ttocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:nth-child(3)
+ttocorps.com##TABLE:nth-child(17) > TBODY > TR:first-child > TD > TABLE > TBODY > TR > TD:first-child > DIV:last-child
 ttocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:first-child
 ttocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:last-child
 ttocorps.com##TABLE:nth-child(14) > TBODY > TR > TD > DIV:last-child > DIV:nth-child(2)
