@@ -44,11 +44,4 @@ S
 5444
 M729Q16K8546
 
-diptip@happygoluckclub.com
 
-308
-0421
-5577
-9080
-0511
-4539
