@@ -44,7 +44,5 @@ S
 5444
 M729Q16K8546
 
-
-ideapads340@snugmail.net
-
-336 0321 5577 9016 5556 7098
+voltauto@reddithub.com
+261 0421 5577 9030 2914 4521
