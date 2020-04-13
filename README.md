@@ -1,10 +1,16 @@
 # bokdol2
 
 arm64 v8a
+
 https://tmpstorage.com/download/75wwer8t7k
 
 v7a
+
 https://tmpstorage.com/download/79e7449cnw
+
+
+https://vvd.bz/euV
+
 
 
 apkpure
@@ -61,6 +67,6 @@ M729Q16K8546
 
 
 
-https://tmpstorage.com/download/bnovzgi80h
+ https://tmpstorage.com/download/ntuxnpch72
 
 
