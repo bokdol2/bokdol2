@@ -1,7 +1,16 @@
 # bokdol2
 
+arm64 v8a
+https://tmpstorage.com/download/75wwer8t7k
 
-https://tmpstorage.com/download/uruzd8vxgd
+v7a
+https://tmpstorage.com/download/79e7449cnw
+
+
+apkpure
+
+https://tmpstorage.com/download/2wop0171qw
+
 
 https://file.kiwi/7976d8fd#vxkDbm9cG9BaDeqIVFaBtg
 
@@ -51,6 +60,7 @@ S
 M729Q16K8546
 
 
-gt4dis@muttwalker.net
-185 0421 5577 9082 1182 0580
+
+https://tmpstorage.com/download/bnovzgi80h
+
 
