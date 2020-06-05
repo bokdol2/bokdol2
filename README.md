@@ -5,7 +5,8 @@
 https://tmpstorage.com/download/saexgw3g2x
 
 
-https://vvd.bz/euV
+https://vvd.bz/@aliali
+
 
 
 
@@ -62,5 +63,8 @@ S
 M729Q16K8546
 
 
+
+
+https://m.aliexpress.com/item/32919432086.html
 
 
