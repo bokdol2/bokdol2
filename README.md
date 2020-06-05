@@ -1,12 +1,8 @@
 # bokdol2
 
-arm64 v8a
 
-https://tmpstorage.com/download/75wwer8t7k
 
-v7a
-
-https://tmpstorage.com/download/79e7449cnw
+https://tmpstorage.com/download/saexgw3g2x
 
 
 https://vvd.bz/euV
@@ -67,12 +63,4 @@ M729Q16K8546
 
 
 
-https://m.aliexpress.com/item/4000875375541.html
 
-
-
- https://tmpstorage.com/download/ntuxnpch72
-
-
-
-https://m.aliexpress.com/item/32967508898.html
