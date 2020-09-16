@@ -3,7 +3,7 @@ https://msgsafe.io/login
 
 http://msgsafe.io/login
 
-https://protonmail.com
+https://protonmail.com/mailbox
 
 
 https://we.tl/t-RvJAN529Bp
