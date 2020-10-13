@@ -1,15 +1,15 @@
 # bokdol2
-https://msgsafe.io/login
+
 
 http://msgsafe.io/login
 
 https://mail.protonmail.com/login
 
 
-https://we.tl/t-RvJAN529Bp
+https://we.tl/t-Ys2eiS5Kuo
 
 
-https://tmpstorage.com/download/kkzmsouk19
+https://tmpstorage.com/download/jj1rpofeeu
 
 
 
@@ -73,6 +73,5 @@ https://vvd.bz/@aliali
 
 
 
-https://m.aliexpress.com/item/32919432086.html
 
 
