@@ -6,10 +6,14 @@ http://msgsafe.io/login
 https://mail.protonmail.com/login
 
 
-https://we.tl/t-Ys2eiS5Kuo
+
+https://tmpstorage.com/download/ot1qmjxepd
 
 
-https://tmpstorage.com/download/jj1rpofeeu
+https://we.tl/t-wQT8rVYmfH
+
+
+
 
 
 
@@ -75,4 +79,8 @@ https://vvd.bz/@aliali
 
 
 
-https://we.tl/t-gdT6lfnDDD
+US $6.00 | Black Carbon Fiber K Flight Logo Sticker Set Hood Trunk Wheel Cap Horn Badge For KIA 2014-2017 Forte Koup/ K3 Koup/ Cerato Koup
+https://a.aliexpress.com/_mNGm8zj
+
+https://m.ko.aliexpress.com/item/1005001304269737.html
+
