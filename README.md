@@ -18,13 +18,7 @@ https://we.tl/t-wQT8rVYmfH
 
 
 
-
-
-
-apkpure
-
-https://file.kiwi/7976d8fd#vxkDbm9cG9BaDeqIVFaBtg
-
+https://vvd.bz/@aliali
 
 https://vvd.bz/@ali
 
@@ -73,14 +67,27 @@ M729Q16K8546
 
 
 
-https://vvd.bz/@aliali
+
+apkpure
+
+https://file.kiwi/7976d8fd#vxkDbm9cG9BaDeqIVFaBtg
 
 
 
 
 
-US $6.00 | Black Carbon Fiber K Flight Logo Sticker Set Hood Trunk Wheel Cap Horn Badge For KIA 2014-2017 Forte Koup/ K3 Koup/ Cerato Koup
-https://a.aliexpress.com/_mNGm8zj
+#폴딩키 복사
+95430 1y500 14년형폴딩키 15000대
+81996 1y700 인서트키 1500원대
+81926 a7000 키핀 110원
 
-https://m.ko.aliexpress.com/item/1005001304269737.html
 
+1. 복사를 위한 키 1.2달러
+
+https://s.click.aliexpress.com/e/_dZdl4yN
+https://ko.aliexpress.com/item/32969054113.html
+
+2. 키 복사 가격 4달러
+
+https://s.click.aliexpress.com/e/_dUBGLvb
+https://ko.aliexpress.com/item/33028408643.html
