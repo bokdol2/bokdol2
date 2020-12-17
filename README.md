@@ -67,6 +67,16 @@ M729Q16K8546
 
 
 
+p1cant0
+
+5236 1364 4705 7263
+01 22 212
+picanto
+
+
+
+
+
 whycantin@unicorntoday.com
 l0gfail
 
@@ -118,6 +128,27 @@ c65volt
 5236 1354 3037 6375
 01 22 330
 
+
+
+
+US $0.54  16%OFF | TAP Adapter with 10A Micro Mini Standard ATM Blade Fuse 12V MINI SMALL MEDIUM Size Car Fuse Holder Add-a-circuit Piggy Back Fuse
+https://a.aliexpress.com/_msavwfx
+
+https://m.aliexpress.com/item/32966702323.html
+
+
+
+US $1.98 | 2 x Car Styling Classical Car Vinyl Decal Rear View Decorative Reflective Stickers Car Accessories For KIA picanto soul sorento
+https://a.aliexpress.com/_mL7aHPX
+
+https://m.aliexpress.com/item/4000730298257.html
+
+
+
+US $2.33  22%OFF | 2pcs/lot car rearview mirror sticker for kia picanto
+https://a.aliexpress.com/_mLfLExj
+
+https://m.ko.aliexpress.com/item/4000110113713.html
 
 
 
