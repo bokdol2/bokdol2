@@ -178,3 +178,15 @@ https://ko.aliexpress.com/item/32969054113.html
 
 https://s.click.aliexpress.com/e/_dUBGLvb
 https://ko.aliexpress.com/item/33028408643.html
+
+
+
+
+
+
+KIA 2016 TA Morning Folding Key. Key insert 81996-1Y700
+
+https://we.tl/t-f6DyOwLtzs
+
+https://tmpstorage.com/download/jg1pwdbboa
+
