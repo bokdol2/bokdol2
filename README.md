@@ -169,14 +169,11 @@ https://file.kiwi/7976d8fd#vxkDbm9cG9BaDeqIVFaBtg
 81926 a7000 키핀 110원
 
 
-1. 복사를 위한 키 1.2달러
 
-https://s.click.aliexpress.com/e/_dZdl4yN
 https://ko.aliexpress.com/item/32969054113.html
 
-2. 키 복사 가격 4달러
+4달러
 
-https://s.click.aliexpress.com/e/_dUBGLvb
 https://ko.aliexpress.com/item/33028408643.html
 
 
@@ -193,3 +190,14 @@ https://tmpstorage.com/download/jg1pwdbboa
 
 5236 1341 5962 8355
 01 22 830
+
+
+Pakey Store
+
+Jingyuqin 원격 #129 #130 키 블레이드 
+https://ko.aliexpress.com/item/32910454569.html
+$0.83
+Cainiao Super Economy Global US $0.26
+
+https://ko.aliexpress.com/item/32968705172.html
+US $3.60
