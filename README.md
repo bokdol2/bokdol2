@@ -71,63 +71,19 @@ https://we.tl/t-7vwFpKC4MK
 
 
 
-h0lder
+ali12th
+hmpfd5g@smime.ninja
 
-https://m.aliexpress.com/item/4000333666776.html
-
-5236 1389 0426 0356
-0122 382 거치대
-
-
-
-
-
-
-p1cant0
-
-5236 1364 4705 7263
-01 22 212
-picanto
-
-
-
-
-
+ali12th
 whycantin@unicorntoday.com
 l0gfail
 
 
-5236 1300 2020 4418
-01 22 438
 
 
 
 
 
-
-
-
-
-dlf1312@outlookpro.net
-thzpt22mm
-
-
-5236 1310 7317 9408
-01 22 254
-22mm
-
-
-
-
-
-lotdr100@bingzone.net
-
-
-drfht100
-
-
-5236 1325 6867 2212
-01 22 513
 
 
 
@@ -203,9 +159,6 @@ https://we.tl/t-f6DyOwLtzs
 
 https://tmpstorage.com/download/jg1pwdbboa
 
-
-5236 1341 5962 8355
-01 22 830
 
 
 Pakey Store
