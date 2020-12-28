@@ -66,6 +66,21 @@ M729Q16K8546
 
 
 
+Mini 퓨즈
+https://m.aliexpress.com/item/4001295332182.html
+
+5236 1397 1433 2054 0122 167 에어척
+
+
+
+
+
+
+
+
+
+
+
 https://we.tl/t-7vwFpKC4MK
 
 
@@ -73,6 +88,14 @@ https://we.tl/t-7vwFpKC4MK
 
 ali13th
 tjaus6f@offtherecordmail.com
+
+
+
+
+
+
+
+
 
 
 
