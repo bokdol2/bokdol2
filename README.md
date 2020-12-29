@@ -72,6 +72,16 @@ https://m.aliexpress.com/item/4000554769881.html
 US $2.34  44%OFF | M8/M7  Mini drill Chuck accessory for Dremel rotary tool and mini grinder drill chuck  0.5-3.2MM Faster Bit Swaps dremel accesso
 https://m.aliexpress.com/item/4000497237555.html
 
+3.53
+https://m.aliexpress.com/item/4001047168672.html
+
+
+샤프트+척
+US $6.60  45%OFF | BDCAT Profession Grinder Flexible Shaft Soft Flex Shaft with 0.3-3.2mm Drill Chuck Handle For Dremel 3000 4000 Tools Accessories
+;신규
+
+
+
 5236 1309 9903 8607 0122 233 whistle
 
 
