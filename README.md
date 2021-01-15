@@ -66,6 +66,9 @@ M729Q16K8546
 
 
 
+Tuya 4ch
+https://m.aliexpress.com/item/1005001860065400.html
+
 
 
 Abrasive Stone 
