@@ -68,6 +68,20 @@ M729Q16K8546
 
 
 
+
+
+
+
+
+US $4.83  31%OFF | Phone Case for LG G5 G6 G7 G8 G8X ThinQ Flip Phone Magnetic Leather Cover for LG G8 Coque Phone Bags Flip Case Soft Cover
+
+https://m.aliexpress.com/item/1005002296626863.html
+
+
+
+
+
+
 US $1.62  22%OFF | Brake Oil Changer Connector Emptying Tool with 1.2m Oil Pumping Pipe Brake Oil Replacement Tool for Car Vehicles Accessories
 https://m.aliexpress.com/item/4000985830450.html
 
