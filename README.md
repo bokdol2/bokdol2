@@ -67,6 +67,14 @@ M729Q16K8546
 
 
 
+US $4.98 | Vacuum Cleaner Parts 32mm inner diameter Long horse hair Round Brush
+https://m.ko.aliexpress.com/item/1005002292527813.html
+
+
+
+
+
+
 
 
 
