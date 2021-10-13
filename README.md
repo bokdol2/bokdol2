@@ -67,6 +67,30 @@ M729Q16K8546
 
 
 
+US $1.12  52%OFF | 90 Degree Fast Charging USB Type C Cable 3A USB C Cable Type C cable for Huawei Data Cord Charger USB Cable C For Samsung S20
+https://m.ko.aliexpress.com/item/1005003141032240.html
+
+
+US $1.00  41%OFF | 0.25M Type C USB Micro Cable Fast Charging Data Cord 90 Degree Short Portable Mini Cable Charge for Power Bank MobilePhone Wire
+https://m.ko.aliexpress.com/item/1005002790183397.html
+
+
+US $3.56
+3 colors 1M 2M 3M 90 Degree USB Type C Cable For Samsung Galaxy S20 S10 9 Plus Xiaomi Mi 9 8 Huawei P20 P30 P40 IPhone 11 12 Pro
+https://m.ko.aliexpress.com/item/1005001949111583.html
+
+
+US $3.60
+Suntaiho USB Type C Cable 90 degree elbow for Samsung Galaxy S10 S9 S8 Plus USB C Charger USB Cable for Xiaomi mi 10 Huawei P30
+https://m.ko.aliexpress.com/item/4000897726778.html
+
+
+
+
+
+
+
+
 US $4.98 | Vacuum Cleaner Parts 32mm inner diameter Long horse hair Round Brush
 https://m.ko.aliexpress.com/item/1005002292527813.html
 
