@@ -67,6 +67,9 @@ M729Q16K8546
 
 
 
+US $1.14  46%OFF | Mobile Phone USB C LED Quick Charger Wire 90 Degree USB Type C Cable 3A Fast Charging Data Cord For Samsung Huawei Redmi Note 9
+https://m.aliexpress.com/item/1005002618653092.html
+
 US $1.12  52%OFF | 90 Degree Fast Charging USB Type C Cable 3A USB C Cable Type C cable for Huawei Data Cord Charger USB Cable C For Samsung S20
 https://m.ko.aliexpress.com/item/1005003141032240.html
 
