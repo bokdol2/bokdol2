@@ -21,7 +21,12 @@ https://apkpure.com/aliexpress/com.alibaba.aliexpresshd
 
 
 
-https://vvd.bz/@aliali
+https://c11.kr/aliex
+https://tuney.kr/ali
+ali.lrl.kr
+http://di.do/aliali
+http://di.do/aliex
+http://di.do/aliexp
 
 https://vvd.bz/@ali
 
