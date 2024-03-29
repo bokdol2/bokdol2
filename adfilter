@@ -1,0 +1,2 @@
+##section:nth-child(22) > article > div.view-padding > div.container.mt-4.toon-viewer > div.toon-viewer-warp > div:first-child
+##section:nth-child(22) > article > div.view-padding > div.container.mt-4.toon-viewer > div.toon-viewer-warp > div:nth-child(3)
