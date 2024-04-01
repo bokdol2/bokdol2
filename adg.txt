@@ -1,0 +1,25 @@
+!agit 웹툰 내용 위 불법도박, 성인광고 gif 제거
+##section:nth-child(22) > article > div.view-padding > div.container.mt-4.toon-viewer > div.toon-viewer-warp > div:first-child
+!/agit[0-9]+\.com/##section:nth-child(22) > article > div.view-padding > div.container.mt-4.toon-viewer > div.toon-viewer-warp > div:first-child
+##section:nth-child(22) > article > div.view-padding > div.container.mt-4.toon-viewer > div.toon-viewer-warp > div:nth-child(3)
+!/agit[0-9]+\.com/##section:nth-child(22) > article > div.view-padding > div.container.mt-4.toon-viewer > div.toon-viewer-warp > div:nth-child(3)
+
+
+!agit 웹툰 내용 위 불법도박, 광고문의 배너 제거
+##.alert, .alert-danger, .alert-dismissible, .fade, .show, .mt-2
+!^(agit(\d+))\.com$##.alert, .alert-danger, .alert-dismissible, .fade, .show, .mt-2
+!/agit[0-9]+\\.com/i##.alert, .alert-danger, .alert-dismissible, .fade, .show, .mt-2
+
+!agit 웹툰 상단 메뉴 중 성인전용 배너 제거
+##nav.navbar.navbar-expand-lg.navbar-dark.col-12.mb-nav:nth-child(5) > div.row > div.col-3.col-sm-3.col-md-3.nav_category.nav_category_history:nth-child(6)
+!/agit[0-9]+\.com/##nav.navbar.navbar-expand-lg.navbar-dark.col-12.mb-nav:nth-child(5) > div.row > div.col-3.col-sm-3.col-md-3.nav_category.nav_category_history:nth-child(6)
+!agit 웹툰 상단 메뉴 중 보증토토 배너 제거
+##nav.navbar.navbar-expand-lg.navbar-dark.col-12.mb-nav:nth-child(5) > div.row > div.col-3.col-sm-3.col-md-3.nav_category:nth-child(13)
+!/agit[0-9]+\.com/##nav.navbar.navbar-expand-lg.navbar-dark.col-12.mb-nav:nth-child(5) > div.row > div.col-3.col-sm-3.col-md-3.nav_category:nth-child(13)
+
+!아지툰소설 상단 메뉴 중 보증토토 배너 제거
+##div.container-full.top-nav:nth-child(23) > div.container > div.row > div.col-3:last-child
+!/agit[0-9]+\.xyz/##div.container-full.top-nav:nth-child(23) > div.container > div.row > div.col-3:last-child
+!아지툰소설 초기화면 상단 메뉴 중 보증토토 배너 제거
+##div.container-full.top-nav:nth-child(25) > div.container > div.row > div.col-3:last-child
+!/agit[0-9]+\.xyz/##div.container-full.top-nav:nth-child(25) > div.container > div.row > div.col-3:last-child
