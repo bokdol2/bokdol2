@@ -11,3 +11,7 @@
 
 ! 2024-04-01 https://agit352.com 웹툰 상단 메뉴 중 성인전용 제거
 ##.nav_category_history.nav_category.col-md-3.col-sm-3.col-3 > [href="https://oplove20.com"]
+
+! 2024-04-01 https://agit636.xyz 아지툰소설 보증토토 메뉴 제거
+##[href="http://bk-guarantee.com/"]
+
